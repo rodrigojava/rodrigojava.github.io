@@ -1,0 +1,46 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title> Aula de Html </title>
+</head>
+<body>
+<h1> Seja Bem-Vindo </h1>
+
+<center><img src="img/html.png" alt="logo" width="850" height="400"></center>
+
+<br><br><br><!--Pular Linha-->
+<ul class="menu1">
+<li><a href="index2.html">home</a></li>
+<li><a href="Historia.html">historia</a></li>
+<li><a href="tags.html">html</a></li>
+<li><a href="css.html">css</a></li>
+<li><a href="java.html">javaScript</a></li>
+</ul>
+<div id="aline">
+
+
+<h2> Aqui voce vai aprender a programar web</h2><!--Subtitulo-->
+
+
+
+
+
+
+<ul>
+<li>Tags html</li> <!--cria uma lista pre ordenada-->
+<li>Estizando com CSS</li>
+<li>Criando Funcoes com JavaScript</li>
+</ul>
+
+<hr>
+
+<h1> Historia </h1>
+
+<p> Hoje vamos aprender os primeiros passos para se tonar um programador<br>
+Web ou seja um web desaner.</p>
+
+
+
+</div>
+</body>
+</html>
